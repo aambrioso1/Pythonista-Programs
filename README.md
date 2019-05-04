@@ -1,0 +1,1 @@
+This repsository is a collection of A collection of Python programs created in Pythonista.  Pythonista is Python IDE in the form of an app for iOS devices.   It works well for experimenting with Python code. It also will allow you to write scripts involving IOs system services.  See:  http://omz-software.com/pythonista/ for more information.
