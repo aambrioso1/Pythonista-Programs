@@ -1,3 +1,10 @@
+#  This is a modification of one of the example programs that comes with the Pythonista app. I wrote it to experiment ith the gravity command whcih gives the programmer access to accelerometer information from the device.  
+# The player tries to align a star that can be moved by moving your device back and forth.  
+
+# To use it you will need to create textfile called highscore.txt in the same directory that contains the programs.  Put one number in the file, 100.0, for the curent high score.
+
+# The program stores each players name, score, and the current high score in separate files.
+
 from scene import *
 import os
 import time
