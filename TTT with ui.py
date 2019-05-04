@@ -1,4 +1,4 @@
-#  This program allows to players to play tictactoe.   It uses the GUI templates availale in Pythonista.  To run the program, you will need to copy the template file to the directory containing the program.
+#  This program allows to players to play tictactoe.   It uses the GUI templates availale in Pythonista.  To run the program, you will need to copy the template file, TicTacToe.pyui, to the directory containing the program.   You can find the file in this repository. 
 
 import ui
 
