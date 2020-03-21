@@ -2,6 +2,8 @@
 Erika Ambrioso
 eambrioso2017@my.fit.edu
 Launch Tracker
+This program is not portable since it uses the ui module in Pythonista.
+The ui file is launch.pyui
 """
 
 # These are the libraries used by the program.
